@@ -1,5 +1,5 @@
 <?php
-require("Cabeza.php");
+require("Cabeza.php");//Falta este archivo cabeza revisa tu codigo y subelo
 require("SQL.php");
 ?>
 <?php
