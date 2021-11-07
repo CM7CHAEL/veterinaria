@@ -1,0 +1,1 @@
+ten cuidado con la manera que mezcas logica de capas en la presentacion .... html solo html, controller solo controller, models solo models
